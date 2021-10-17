@@ -53,7 +53,7 @@
   <a href="https://www.instagram.com/mydialectblog/" target="_blank">
     <code><img height="50" width="50" src="instagram.svg"/></code>
   </a>
-  <a href="hhttps://twitter.com/tanyaasrivastav" target="_blank">
+  <a href="https://twitter.com/tanyaasrivastav" target="_blank">
     <code><img height="50" width="50" src="twitter.svg"/></code>
   </a>
 
