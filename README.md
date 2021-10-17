@@ -24,10 +24,12 @@
 <!------------------------------->
 
 <br>
-<br>
-<p align="center">
-<strong>Github Statistics
-</p>
+
+<h2 align="center">
+<u>
+Github Statistics</u>
+</h2>
+
 <hr>
 
 
@@ -42,7 +44,7 @@
 </details>
 <br>
 
-<h2><b><u>
+<h2 align="center"><b><u>
 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎</u></b></h2>
 
 <p align="center">
@@ -57,6 +59,7 @@
   <a href="https://twitter.com/tanyaasrivastav" target="_blank">
     <code><img height="50" width="50" src="resources/twitter.svg"/></code>
   </a>
+  
 
 
 
