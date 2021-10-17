@@ -1,7 +1,7 @@
 <h1 align="center">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <a target="_blank">
-    <img src="resources/Earth.gif" />
+    <img src="resources/Earth.gif" width=20px />
   </a>
 </h1>
 
