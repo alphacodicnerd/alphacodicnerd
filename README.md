@@ -23,12 +23,12 @@
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/alphacodicnerd?label=Followers&style=social">  
 <!------------------------------->
 
-
-<details open="">
-<summary>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
 <br>
+<br>
+<p align="center">
+<strong>Github Statistics</strong>
+</p>
+<hr>
 
 
 <p align="center">
@@ -41,3 +41,22 @@
 </p>
 </details>
 <br>
+
+<h2><b><u>
+𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎</u></b></h2>
+
+<p align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/kaysthatanya/" target="_blank">
+    <code><img height="50" width="50" src="linkedin.svg"/></code>
+  </a>
+  <a href="https://www.instagram.com/mydialectblog/" target="_blank">
+    <code><img height="50" width="50" src="instagram.svg"/></code>
+  </a>
+  <a href="hhttps://twitter.com/tanyaasrivastav" target="_blank">
+    <code><img height="50" width="50" src="twitter.svg"/></code>
+  </a>
+
+
+
+
