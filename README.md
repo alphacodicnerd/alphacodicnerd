@@ -26,7 +26,7 @@
 <br>
 <br>
 <p align="center">
-<strong>Github Statistics</strong>
+<strong>Github Statistics
 </p>
 <hr>
 
@@ -48,13 +48,14 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/kaysthatanya/" target="_blank">
-    <code><img height="50" width="50" src="linkedin.svg"/></code>
+    <code><img height="50" width="50" src="resources/linkedin.svg"/></code>
   </a>
   <a href="https://www.instagram.com/mydialectblog/" target="_blank">
-    <code><img height="50" width="50" src="instagram.svg"/></code>
+    <code><img height="50" width="50" src="resources/instagram.svg"/></code>
   </a>
+  
   <a href="https://twitter.com/tanyaasrivastav" target="_blank">
-    <code><img height="50" width="50" src="twitter.svg"/></code>
+    <code><img height="50" width="50" src="resources/twitter.svg"/></code>
   </a>
 
 
