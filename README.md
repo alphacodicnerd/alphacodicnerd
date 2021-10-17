@@ -59,7 +59,11 @@ Github Statistics</u>
   <a href="https://twitter.com/tanyaasrivastav" target="_blank">
     <code><img height="50" width="50" src="resources/twitter.svg"/></code>
   </a>
-  
+
+  <a href="https://www.hackerrank.com/tsrivastava315" target="_blank">
+    <code><img height="50" width="50" src="resources/hackerrank.svg"/></code>
+  </a>
+
 
 
 
